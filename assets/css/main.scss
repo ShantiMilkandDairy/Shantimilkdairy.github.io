@@ -186,3 +186,27 @@ img.no-border {
     display: block !important;
   }
 }
+
+/* Sidebar fixes */
+@media only screen and (max-width: 768px) {
+  .sidebar {
+    position: relative !important;
+    width: 100% !important;
+    padding: 1rem !important;
+  }
+
+  .page__content {
+    margin-left: 0 !important;
+    padding: 1rem;
+  }
+
+  .sidebar__main {
+    width: 100%;
+    overflow-x: auto;
+  }
+}
+
+img, iframe {
+
+  display: block;
+}

@@ -16,9 +16,7 @@ baseurl: ""   # THIS is critical for user site!
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 layout: single
-sidebar:
-  nav: "sidebar-nav"  # ensure this YAML reference matches your /_data/navigation.yml or similar
-  sticky: false
+
 
 
 # Site Settings
@@ -188,7 +186,7 @@ navigation:
 # Sidebar configuration
 sidebar:
   enabled: true          # required if you want sidebar content
-  sticky: true
+  sticky: false
   nav: "docs"            # optional, but keep if you want sidebar navigation
   # you can also try commenting this out if not using nav
 
@@ -386,6 +384,11 @@ defaults:
 # In _config.yml
 layout: "single" # or "splash" for homepage
 header:
+  overlay: false
+  show_overlay_excerpt: false
+  show_nav: true  # ← This is key
+  nav: true       # ← Enable navigation links
+
   nav:
     - title: "Home"
       url: /

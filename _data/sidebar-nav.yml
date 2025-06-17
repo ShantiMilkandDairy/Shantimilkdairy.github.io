@@ -1,0 +1,14 @@
+- title: "Home"
+  url: "/"
+
+- title: "A2 Sahiwal Milk"
+  url: "/milk/"
+
+- title: "Bilona Ghee"
+  url: "/ghee/"
+
+- title: "Our Location"
+  url: "/location/"
+
+- title: "About us"
+  url: "/about/"
