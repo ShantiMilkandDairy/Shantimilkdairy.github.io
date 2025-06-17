@@ -13,7 +13,7 @@ baseurl: ""   # THIS is critical for user site!
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 
@@ -390,3 +390,5 @@ header:
       url: /
     - title: "Contact"
       url: /
+    - title: "Our Location"
+      url: /location/

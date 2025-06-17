@@ -6,6 +6,8 @@ main:
     url: /milk/
   - title: "Bilona Ghee"
     url: /ghee/
+  - title: "Our Location"
+    url: /location/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
