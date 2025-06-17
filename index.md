@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "Welcome to Shanti Milk & Dairy"
 permalink: /
 author_profile: true
