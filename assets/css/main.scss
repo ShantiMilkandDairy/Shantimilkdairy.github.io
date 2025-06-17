@@ -64,7 +64,8 @@ section, article, .page__content > * {
 
   box-shadow: 3px 0 10px rgba(0, 0, 0, 0.15);
   font-family: 'Inter', 'Segoe UI', sans-serif; /* Optional: clean font */
-  
+  width: fit-content;
+  height: auto;
   transition: background 0.3s ease, color 0.3s ease;
 }
 
