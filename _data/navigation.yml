@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: /index/
+    url: "/"
   - title: "A2 Milk"
     url: /milk/
   - title: "Bilona Ghee"
