@@ -8,7 +8,7 @@ author_profile: true
 > अजो नित्य: शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे
 <!-- ![Our Grandmother — The Heart of Shanti]({{ "/assets/images/dadi.jpg" | relative_url }}){: .align-center } -->
 
-![Our Grandmother]({{ "/assets/img/maa.jpg" | relative_url }}){: .align-center }
+<img src="/assets/img/maa.jpg" alt="Our Grandma" style="max-width: 100%; border-radius: 10px;">
 > *“She didn’t run the dairy, but she runs through everything we do.”*
 
 ---
