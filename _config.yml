@@ -13,7 +13,9 @@ baseurl: ""   # THIS is critical for user site!
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 
 # Site Settings
 locale                   : "en-US"
@@ -164,9 +166,31 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: https://www.youtube.com/@shantidairyfarm
 
+# Top nav links
+navigation:
+  - title: "Home"
+    url: /
+  - title: "A2 Sahiwal Milk"
+    url: /a2-milk/
+  - title: "Bilona Ghee"
+    url: /bilona-ghee/
+  - title: "Contact"
+    url: /contact/
+
+# Sidebar configuration
+sidebar:
+  enabled: true          # required if you want sidebar content
+  sticky: true
+  nav: "docs"            # optional, but keep if you want sidebar navigation
+  # you can also try commenting this out if not using nav
+
+# Enable author profile
+author_profile: true
+
 
 # Reading Files
 include:
+  - assets/css
   - .htaccess
   - _pages
 exclude:
@@ -349,3 +373,18 @@ defaults:
       share: true
       related: true
       custom_css: "custom"
+
+# In _config.yml
+layout: "single" # or "splash" for homepage
+header:
+  nav:
+    - title: "Home"
+      url: /
+    - title: "Milk"
+      url: /milk/
+    - title: "Ghee"
+      url: /ghee/
+    - title: "About"
+      url: /
+    - title: "Contact"
+      url: /
