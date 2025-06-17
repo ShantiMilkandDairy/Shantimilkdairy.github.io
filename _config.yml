@@ -178,6 +178,8 @@ navigation:
     url: /bilona-ghee/
   - title: "Contact"
     url: /contact/
+  - title: "About us"
+    url: /about/
 
 # Sidebar configuration
 sidebar:
@@ -349,7 +351,7 @@ author:
   links:
     - label: "YouTube"
       icon: "fab fa-youtube"
-      url: "https://www.youtube.com/@shantimilkfarm"
+      url: "https://www.youtube.com/@shantidairyfarm"
     - label: "Instagram"
       icon: "fab fa-instagram"
       url: "https://www.instagram.com/shantimilkdairy"
@@ -387,9 +389,9 @@ header:
       url: /milk/
     - title: "Ghee"
       url: /ghee/
-    - title: "About"
-      url: /
     - title: "Contact"
       url: /
     - title: "Our Location"
       url: /location/
+    - title: "About us"
+      url: /about/

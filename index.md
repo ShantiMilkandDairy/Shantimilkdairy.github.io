@@ -5,13 +5,16 @@ permalink: /
 author_profile: true
 entries: false  # ⬅️ hides recent posts if set in config
 ---
-> न जायते म्रियते वा कदाचि नायं भूत्वा भविता वा न भूय: |
-> अजो नित्य: शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे
+<!-- > न जायते म्रियते वा कदाचि नायं भूत्वा भविता वा न भूय: |
+> अजो नित्य: शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे -->
 <!-- ![Our Grandmother — The Heart of Shanti]({{ "/assets/images/dadi.jpg" | relative_url }}){: .align-center } -->
+<!-- > *“She didn’t run the dairy, but she runs through everything we do.”* -->
 
-<img src="/assets/img/maa.JPG" alt="Our Grandma" style="max-width: 100%; border-radius: 10px;">
-> *“She didn’t run the dairy, but she runs through everything we do.”*
+---
 
+<div style="text-align: center;">
+  <img src="/assets/img/logo.JPG" alt="Our Cows" style="max-width: 30% ; height: auto; border-radius: 10px;">
+</div>
 ---
 
 **Shanti Milk & Dairy** isn’t just a name.  
