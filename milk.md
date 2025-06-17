@@ -24,3 +24,9 @@ We let it stay as it should be — full of nutrients, untouched by chemicals, an
 ---
 
 Real milk shouldn’t need marketing. It should just be **clean, local, and honest**.
+
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://wa.me/919643011465?text=Hi%20Shanti%20Milk%20%26%20Dairy,%20I%20want%20to%20order%20milk." target="_blank" class="btn btn--primary">
+    🥛 Order Now
+  </a>
+</div>

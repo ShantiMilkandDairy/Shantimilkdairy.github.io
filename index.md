@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: "Welcome to Shanti Milk & Dairy"
 permalink: /
 author_profile: true
@@ -58,7 +58,7 @@ Because this isn’t just business — it’s a way of doing right by what we ea
 Taste the difference of purity.
 Fresh A2 Sahiwal Milk and traditionally churned Bilona Ghee — straight from our farm to your doorstep.
 
-<div style="margin-top: 2rem;">
+<div style="text-align: center; margin-top: 2rem;">
   <a href="https://wa.me/919643011465" target="_blank" class="btn btn--primary" style="margin-right: 1rem;">
     📦 Order on WhatsApp
   </a>
