@@ -11,7 +11,8 @@ Our milk comes from native Indian Sahiwal cows — known for producing A2 protei
 We don’t homogenize or process it heavily.  
 We let it stay as it should be — full of nutrients, untouched by chemicals, and sourced with care.
 
-![Our Cows]({{ "/assets/img/profile.jpg" | relative_url }}){: .align-center }
+
+<img src="/assets/img/profile.jpg" alt="Our Grandma" style="max-width: 100%; border-radius: 10px;">
 
 ### How We Do It
 
