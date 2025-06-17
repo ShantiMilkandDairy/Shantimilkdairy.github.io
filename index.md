@@ -2,17 +2,16 @@
 layout: single
 title: "Welcome to Shanti Milk & Dairy"
 permalink: /
-author_profile: false
+author_profile: true
 ---
 > न जायते म्रियते वा कदाचि नायं भूत्वा भविता वा न भूय: |
 > अजो नित्य: शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे
 <!-- ![Our Grandmother — The Heart of Shanti]({{ "/assets/images/dadi.jpg" | relative_url }}){: .align-center } -->
+
 ![Our Grandmother]({{ "/assets/img/maa.jpg" | relative_url }}){: .align-center }
 > *“She didn’t run the dairy, but she runs through everything we do.”*
 
-
 ---
-
 
 **Shanti Milk & Dairy** isn’t just a name.  
 It’s a way of doing things — patiently, honestly, and with respect for what we consume.
@@ -55,6 +54,17 @@ We’re still small.
 We like it that way.  
 Because this isn’t just business — it’s a way of doing right by what we eat, and how we live.
 
-Thanks for being here.  
-**— Shanti Milk & Dairy**
+Taste the difference of purity.
+Fresh A2 Sahiwal Milk and traditionally churned Bilona Ghee — straight from our farm to your doorstep.
+
+<div style="margin-top: 2rem;">
+  <a href="https://wa.me/919643011465" target="_blank" class="btn btn--primary" style="margin-right: 1rem;">
+    📦 Order on WhatsApp
+  </a>
+  <a href="tel:+919643011465" class="btn btn--primary">
+    📞 Call Us
+  </a>
+</div>
+
+
 
