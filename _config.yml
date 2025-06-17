@@ -15,6 +15,10 @@ baseurl: ""   # THIS is critical for user site!
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+layout: single
+sidebar:
+  nav: "sidebar-nav"  # ensure this YAML reference matches your /_data/navigation.yml or similar
+  sticky: false
 
 
 # Site Settings

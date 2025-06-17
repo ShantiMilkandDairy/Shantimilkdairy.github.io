@@ -168,3 +168,21 @@ img.no-border {
   border: none !important;
   box-shadow: none !important;
 }
+
+/* Add this if not collapsing properly */
+@media (max-width: 768px) {
+  .sidebar__main {
+    position: static !important;
+    width: 100% !important;
+    margin: 0 auto !important;
+    padding: 1rem !important;
+  }
+
+  .page__content {
+    margin-left: 0 !important;
+  }
+
+  .nav__toggle {
+    display: block !important;
+  }
+}
