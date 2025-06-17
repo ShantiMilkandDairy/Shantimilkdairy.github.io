@@ -13,7 +13,7 @@ entries: false  # ⬅️ hides recent posts if set in config
 ---
 
 <div style="text-align: center;">
-  <img src="/assets/img/logo.JPG" alt="Our Cows" style="max-width: 30% ; height: auto; border-radius: 10px;">
+  <img src="/assets/img/logo.jpg" alt="Our Cows" style="max-width: 30% ; height: auto; border-radius: 10px;">
 </div>
 ---
 
