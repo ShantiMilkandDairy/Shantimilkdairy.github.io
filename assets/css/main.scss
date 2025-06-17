@@ -173,7 +173,7 @@ img.no-border {
 @media (max-width: 768px) {
   .sidebar__main {
     position: static !important;
-    width: 100% !important;
+    // width: 100% !important;
     margin: 0 auto !important;
     padding: 1rem !important;
   }
@@ -209,4 +209,25 @@ img.no-border {
 img, iframe {
 
   display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar__main {
+    display: none;
+    position: absolute;
+    background: #fff;
+    z-index: 1000;
+    width: 80%;
+    // height: 100vh;
+    overflow-y: auto;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .sidebar__main.open {
+    display: block;
+  }
+
+  .page__content {
+    margin-left: 0 !important;
+  }
 }

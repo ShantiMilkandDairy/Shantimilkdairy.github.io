@@ -387,7 +387,7 @@ header:
   overlay: false
   show_overlay_excerpt: false
   show_nav: true  # ← This is key
-  nav: true       # ← Enable navigation links
+  nav: "main"     # ← Enable navigation links
 
   nav:
     - title: "Home"

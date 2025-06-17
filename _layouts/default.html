@@ -38,6 +38,24 @@
       </footer>
     </div>
 
+
+
     {% include scripts.html %}
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggle = document.getElementById("sidebarToggle");
+    const sidebar = document.getElementById("sidebar");
+
+    if (toggle && sidebar) {
+      toggle.addEventListener("click", function () {
+        sidebar.classList.toggle("open");
+        console.log("Toggle clicked");
+      });
+    } else {
+      console.warn("Sidebar or toggle button not found");
+    }
+  });
+</script>
+
   </body>
 </html>
