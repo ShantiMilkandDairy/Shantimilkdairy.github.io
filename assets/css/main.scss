@@ -7,3 +7,164 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "custom/custom"; // ✅ your custom overrides
+@import url('https://use.typekit.net/xyz123.css');
+
+/* Override for full-height sidebar background */
+// .sidebar {
+//   background-color: #2c2c2c;
+// //   color: #ffffff;
+//   min-height: 100vh; /* Ensure sidebar stretches full height of viewport */
+//   padding: 2rem;      /* Optional: Adjust spacing inside the sidebar */
+// //   background: linear-gradient(to bottom, #693b03, #b2750c);
+// //   box-shadow: 2px 0 5px rgba(192, 178, 178, 0.2);
+//   background: linear-gradient(to bottom, #fff8e6, #e8dfd6);
+//   color: #4b3b2a; /* Earthy text color */
+//   box-shadow: 2px 0 6px rgba(140, 120, 100, 0.1);
+// }
+
+/* Optional: Remove any background from main content to avoid overlap */
+// .wrap {
+//   background-color: #ffffff; /* or whatever your main background is */
+// }
+// body {
+//   font-family: 'funnel-display', serif;ss
+// }
+body {
+  font-family: 'Inter', sans-serif; // or your preferred font
+  font-size: 1rem;
+  line-height: 1.75;
+  margin: 0;
+  padding: 0;
+  background-color: #fffaf3;
+  color: #4b3b2a;
+}
+
+/* Wrap main content in a max-width container */
+.wrap, .page__content, .main, .site-content, .page {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+  box-sizing: border-box;
+}
+
+/* Optional: Space out sections */
+section, article, .page__content > * {
+  margin-bottom: 2rem;
+}
+
+.sidebar {
+  background-color: #180a02; /* Rich dark brown */
+  background-image: url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+  background-repeat: repeat;
+  background-size: cover; /* smoother scaling */
+  
+  color: #fefae0;           /* Soft off-white text */
+  min-height: 100vh;
+  padding: 2rem 1.5rem;
+
+  box-shadow: 3px 0 10px rgba(0, 0, 0, 0.15);
+  font-family: 'Inter', 'Segoe UI', sans-serif; /* Optional: clean font */
+  
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+
+
+a:hover {
+  color: #fff;
+  text-shadow: 0 0 6px #ffda9b;
+  transition: text-shadow 0.3s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  background-color: #f9f9f9;       // light gray background
+  padding: 0.5rem 1rem;            // space inside the box
+  border-radius: 0.5rem;           // rounded corners (optional)
+  color: #2c2c2c;                  // dark text color
+  display: block; width: 100%;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); // subtle shadow
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+  border: 3px solid #5b330b; /* soft warm beige */
+  border-radius: 4px;        /* subtle rounding for softness */
+}
+
+p {
+  margin-bottom: 1.25rem;
+  font-size: 1.05rem;
+}
+
+a {
+  color: #502b04;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #592f07;
+  text-decoration: underline;
+}
+
+.page__content {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+}
+
+.masthead__logo img {
+  max-height: 100px;
+}
+
+.site-logo img {
+  max-height: 120px; // or 120px, adjust as you wish
+  width: auto;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.site-header,
+.masthead,
+.page-header {
+  border-bottom: 1px solid #ddd;  // Thin bottom border
+  border-top: 1px solid #ddd;     // Optional: for top border too
+  padding: 1rem 0;                // Optional: adds some spacing
+  text-shadow:  #fffaf3;
+  font-weight: bold;
+//   background-color: #f9b347 !important;
+background-image: url('https://www.transparenttextures.com/natural-paper.png');
+}
+body {
+  background-color: #fff8e6;
+  color: #4b3b2a;
+}
+
+
+.site-header a {
+  color: #4b3b2a;
+  font-weight: bold;
+}
+.site-footer {
+  background-color: #f4b042;
+  color: #4b3b2a;
+}
+.btn {
+  background-color: #f4b042;
+  color: #fff8e6;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: #2fc70d;
+}
+
+img.no-border {
+  border: none !important;
+  box-shadow: none !important;
+}

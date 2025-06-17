@@ -32,16 +32,19 @@ For Sourabh, this isn't just a business — it's a movement to **make food sacre
 > *"Shanti is more than a name — it's a way of life. One that respects the animal, the farmer, the earth, and you."*  
 > — **Sourabh Bhardwaj**
 
-<div style="text-align: center; margin-top: 1.5rem; display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
-  
-  <a href="https://wa.me/919643011465" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 20px; background-color: #25D366; color: white; border-radius: 6px; font-weight: 600; text-decoration: none; font-size: 1rem;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp Icon" width="24" height="24" style="border-radius: 50%;">
+<div style="text-align: center; margin-top: 1.5rem; display: flex; justify-content: center; gap: 3rem; flex-wrap: wrap;">
+
+  <a href="https://wa.me/919643011465" target="_blank" style="display: inline-flex; align-items: center; gap: 12px; padding: 6px 14px; background-color: #25D366; color: white; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 1rem; line-height: 1;">
+    <img class = "no-border" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp Icon" width="20" height="20" style="display: inline-block;">
     WhatsApp
   </a>
 
-  <a href="https://www.instagram.com/shantimilkdairy" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; padding: 10px 20px; background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); color: white; border-radius: 6px; font-weight: 600; text-decoration: none; font-size: 1rem;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Icon" width="24" height="24" style="border-radius: 5px;">
+  <a href="https://www.instagram.com/shantimilkdairy" target="_blank" style="display: inline-flex; align-items: center; gap: 12px; padding: 6px 14px; background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); color: white; border-radius: 8px; font-weight: 700; text-decoration: none; font-size: 1rem; line-height: 1;">
+    <img class = "no-border" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Icon" width="20" height="20" style="display: inline-block;">
     Instagram
   </a>
 
 </div>
+
+
+
