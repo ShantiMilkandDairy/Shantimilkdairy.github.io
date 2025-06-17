@@ -3,6 +3,7 @@ layout: home
 title: "Welcome to Shanti Milk & Dairy"
 permalink: /
 author_profile: true
+entries: false  # ⬅️ hides recent posts if set in config
 ---
 > न जायते म्रियते वा कदाचि नायं भूत्वा भविता वा न भूय: |
 > अजो नित्य: शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे
